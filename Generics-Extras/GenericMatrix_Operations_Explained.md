@@ -1,4 +1,4 @@
-successfully downloaded text file (SHA: 96809caadea4b95d67bd2e3ae3b61a6d0aa79913)# GenericMatrix: A Deep Dive into Matrix Operations in Java
+# GenericMatrix: A Deep Dive into Matrix Operations in Java
 
 This document provides a comprehensive explanation of the `GenericMatrix` abstract class, which implements generic matrix addition and multiplication operations using Java generics and the Template Method design pattern.
 
